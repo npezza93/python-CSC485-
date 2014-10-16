@@ -1,0 +1,24 @@
+*** Original File ***
+
+This is a line  
+    this is also a line
+
+*** Word Count ***
+
+This - 3
+a - 2
+line - 2
+this - 2
+also - 2
+
+*** Alphabetic List ***
+
+a - 2
+also - 2
+line - 2
+This - 3
+this - 2
+
+*** Numbers ***
+
+
